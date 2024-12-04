@@ -59,7 +59,7 @@
 - Creating | Deleting Databases
 - Creating | Deleting Collections 
 ### `Managing Databases & Collections:`
-```json
+```bash
 show dbs;
 use <database_name>;
 db.dropDatabase();
@@ -69,7 +69,7 @@ db.createCollection("<collection_name>");
 db.<collection_name>.drop();
 ```
 ### `MongoDb Databases & Collections Commands:`
-```json
+```bash
 show dbs;
 admin      40.00 KiB
 config     72.00 KiB
