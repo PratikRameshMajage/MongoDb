@@ -58,6 +58,7 @@
 ### `MAnaging Database In Mongodb:`
 - Creating | Deleting Databases
 - Creating | Deleting Collections 
+- You Won't see a adatabase listed in the output of the show dbs command until that database contain at least one collection with data in it.
 ### `Managing Databases & Collections:`
 ```bash
 show dbs;
@@ -84,7 +85,6 @@ testapp1   96.00 KiB
 
 use students;
 switched to db students
-// You Won't see a adatabase listed in the output of the show dbs command until that database contain at least one collection with data in it.
 
 show collections;
 
