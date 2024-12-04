@@ -1,4 +1,4 @@
-# `Complete MongoDB Course:`
+# ![Logo](docs/leaf.svg) `Complete MongoDB Notes:`
 ## `Introduction:`
 ### `What is Mongodb:` 
 - MongoDB is an Open-Sourse, Document-Oriented No-Sql Database Management System.
@@ -58,7 +58,7 @@
 ### `MAnaging Database In Mongodb:`
 - Creating | Deleting Databases
 - Creating | Deleting Collections 
-- You Won't see a adatabase listed in the output of the show dbs command until that database contain at least one collection with data in it.
+- You Won't see a database listed in the output of the show dbs command, until that database contain at least one collection with data in it.
 ### `Managing Databases & Collections:`
 ```bash
 show dbs;
